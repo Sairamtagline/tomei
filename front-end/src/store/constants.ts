@@ -1,0 +1,6 @@
+export const ALL_USER = "ALL_USER"
+export const SIGN_UP = "SIGN_UP"
+export const RESET_PASSWORD = "RESET_PASSWORD"
+export const EDIT_PROFILE = "EDIT_PROFILE"
+export const RESET_PASSWORD_EMAIL = "RESET_PASSWORD_EMAIL"
+export const TOASTER = "TOASTER"

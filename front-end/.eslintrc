@@ -1,0 +1,16 @@
+{
+    "rules": {
+        "react/prop-types": 0,
+        "no-underscore-dangle": "off",
+        "import/no-named-as-default-member": "off",
+        "react/button-has-type": "off",
+        "no-bitwise": "off",
+        "react/no-danger": "off",
+        "react/no-array-index-key": "off",
+        "react-hooks/rules-of-hooks": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    }
+}

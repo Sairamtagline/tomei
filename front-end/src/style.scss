@@ -1,0 +1,66 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.stepper-header{
+    font-size: 16px;
+    color: #000;
+    font-family: 'Open Sans';
+    font-weight:'bold', 600;
+}
+
+.header{
+    font-size: 21px;
+    color: #000000;
+    font-family: 'Open Sans';
+    background-color: #C5DCFA;
+    font-weight:600;
+}
+.label{
+    font-size: 16px;
+    color: #C7C7C7;
+    font-family: 'Open Sans';
+    font-weight: 600;
+display:flex;
+}
+.uploadBtn{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 16px;
+    color: #000000;
+}
+.saveBtn{
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 16px;
+    color: #0A3977;
+    background-color: #C5DCFA;
+    border:none;
+    border-radius: 10px;
+}
+.sign-up{
+    align-self: center;
+    width:740px;
+    display: inline-table;
+}
+.previewImage{
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+}
+.error{
+    color: red;
+    font-size: 14px;
+}
+body {
+    .modal-backdrop {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .Toastify__toast-container {
+        left: auto !important;
+    }
+}
+
+
